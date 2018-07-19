@@ -8,7 +8,7 @@ mid 2016, I began wanting simply to make a mod for a game called Minecraft which
 to do software development as a career.
 
 
-## C#
+## CSharp
 ### Introduction
 Most of my work in C# has either been for college where we had to make a game that teaches children diffrent colors or 
 utilities for the Windows operating system namely download_cleaner which allowed customizable tasks to be made to clean 
